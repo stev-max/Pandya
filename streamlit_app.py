@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("belajar")
+st.title("belajar membuat web")
 st.write(
-    "hello"
+    "hi"
 )
